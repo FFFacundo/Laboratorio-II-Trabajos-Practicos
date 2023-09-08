@@ -1,0 +1,11 @@
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\bin\Debug\Punto3 - TP1.exe.config
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\bin\Debug\Punto3 - TP1.exe
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\bin\Debug\Punto3 - TP1.pdb
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\obj\Debug\Punto3 - TP1.csproj.AssemblyReference.cache
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\obj\Debug\Punto3 - TP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\obj\Debug\Punto3___TP1.Form1.resources
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\obj\Debug\Punto3___TP1.Properties.Resources.resources
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\obj\Debug\Punto3 - TP1.csproj.GenerateResource.cache
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\obj\Debug\Punto3 - TP1.csproj.CoreCompileInputs.cache
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\obj\Debug\Punto3 - TP1.exe
+C:\Users\facu9\Documents\PROGRAMACION\Facultad\1ro\Laboratorio II - Lamberti\TP1\Punto3 - TP1\obj\Debug\Punto3 - TP1.pdb
