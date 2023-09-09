@@ -29,8 +29,6 @@ namespace Punto3___TP1
 
             if (prom >= 7)
                 MessageBox.Show("Promocionado");
-            else
-                MessageBox.Show("Te toco entregar el chikitito.");
         }
 
         private void button2_Click(object sender, EventArgs e)
