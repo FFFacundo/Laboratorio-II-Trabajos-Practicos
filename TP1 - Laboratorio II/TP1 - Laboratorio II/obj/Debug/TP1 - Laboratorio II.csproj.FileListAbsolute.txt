@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\bin\Debug\TP1 - Laboratorio II.exe.config
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\bin\Debug\TP1 - Laboratorio II.exe
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\bin\Debug\TP1 - Laboratorio II.pdb
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1 - Laboratorio II.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1 - Laboratorio II.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1___Laboratorio_II.capaPresentacion.E1.resources
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1___Laboratorio_II.menu.resources
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1___Laboratorio_II.Properties.Resources.resources
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1 - Laboratorio II.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1 - Laboratorio II.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1 - Laboratorio II.exe
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1 - Laboratorio II.pdb
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1___Laboratorio_II.capaPresentacion.E2.resources
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1___Laboratorio_II.capaPresentacion.E3.resources
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1___Laboratorio_II.capaPresentacion.E4.resources
+C:\Users\Usuario\Documents\PROGRAMACIÓN\Facultad\TP1 - Laboratorio II\TP1 - Laboratorio II\obj\Debug\TP1___Laboratorio_II.capaPresentacion.E5.resources
